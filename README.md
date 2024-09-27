@@ -3,6 +3,10 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN0a3BlNWtvcGhmb3I0NXRnZXkzMngzbTl2a3ozMmlnenVremszdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRf5fsn8G6YaogAWxn/giphy.webp" width="100"/>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=nutgzazah&style=flat-square&color=blue" alt=""/>
+</div>
+
 **nutgzazah/nutgzazah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
