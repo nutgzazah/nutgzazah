@@ -1,5 +1,7 @@
-## Hi there 👋
-
+### Hi👋 I'm Natthapon Tanateeraanan
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN0a3BlNWtvcGhmb3I0NXRnZXkzMngzbTl2a3ozMmlnenVremszdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jRf5fsn8G6YaogAWxn/giphy.webp" width="100"/>
+</div>
 
 **nutgzazah/nutgzazah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
