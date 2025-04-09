@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/nutgzazah?logo=github&style=for-the
 
 - 🔭 I’m currently working on **Software Engineering Project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React-Native Fullstack App**
 
 - 📫 How to reach me **nutgzazah@gmail.com**
 
