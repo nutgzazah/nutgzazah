@@ -36,7 +36,7 @@
 - 🎓 Computer Science graduate from **KMUTT**.
 - 💼 Actively looking for new opportunities in **Full-Stack / Software Development**.
 - 🚀 **Ready to start working immediately.**
-- 🔭 Currently building a Full-Stack Gamified Mobile Learning Platform - LearnVelUp (React Native, Expo, Supabase).
+- 🔭 Recently built a Full-Stack Gamified Mobile Learning Platform - [LearnvelUp](https://github.com/nutgzazah/LearnvelUp) (React Native, Expo, Supabase).
 - 📫 How to reach me: **nutgzazah@gmail.com**
 
 ---
